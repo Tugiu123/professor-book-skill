@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+logs/
+output/
+outputs/
+result/
+results/
